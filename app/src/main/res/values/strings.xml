@@ -7,5 +7,10 @@
     <string name="br2">Recorder 2</string>
     <string name="br3">Recorder 3</string>
     <string name="btnStop">Stop</string>
-    <string name="btnPlay">Play</string>
+    <string name="btnPlay_1">Play 1</string>
+    <string name="btnPlay_2">Play 2</string>
+    <string name="btnPlay_3">Play 3</string>
+    <string name="btnMusic1">Guitar</string>
+    <string name="btnMusic2">Dramatic</string>
+    <string name="btnMusic3">Orchestra</string>
 </resources>
