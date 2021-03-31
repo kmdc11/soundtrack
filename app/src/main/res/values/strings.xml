@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sountrack</string>
+    <string name="soundtrack">soundtrack</string>
+    <string name="button">laughter</string>
+    <string name="btn_laugh">Laugh Track</string>
+    <string name="br1">Recorder 1</string>
+    <string name="br2">Recorder 2</string>
+    <string name="br3">Recorder 3</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnPlay">Play</string>
+</resources>
